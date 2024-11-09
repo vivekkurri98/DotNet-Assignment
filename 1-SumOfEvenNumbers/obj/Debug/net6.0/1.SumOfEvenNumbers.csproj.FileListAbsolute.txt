@@ -1,0 +1,14 @@
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\obj\Debug\net6.0\1.SumOfEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\obj\Debug\net6.0\1.SumOfEvenNumbers.AssemblyInfoInputs.cache
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\obj\Debug\net6.0\1.SumOfEvenNumbers.AssemblyInfo.cs
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\obj\Debug\net6.0\1.SumOfEvenNumbers.csproj.CoreCompileInputs.cache
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\bin\Debug\net6.0\1.SumOfEvenNumbers.exe
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\bin\Debug\net6.0\1.SumOfEvenNumbers.deps.json
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\bin\Debug\net6.0\1.SumOfEvenNumbers.runtimeconfig.json
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\bin\Debug\net6.0\1.SumOfEvenNumbers.dll
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\bin\Debug\net6.0\1.SumOfEvenNumbers.pdb
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\obj\Debug\net6.0\1.SumOfEvenNumbers.dll
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\obj\Debug\net6.0\refint\1.SumOfEvenNumbers.dll
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\obj\Debug\net6.0\1.SumOfEvenNumbers.pdb
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\obj\Debug\net6.0\1.SumOfEvenNumbers.genruntimeconfig.cache
+C:\New folder\Programming\Sportz-Interactive\1.SumOfEvenNumbers\obj\Debug\net6.0\ref\1.SumOfEvenNumbers.dll
